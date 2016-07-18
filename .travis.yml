@@ -21,7 +21,7 @@ services: docker
 
 env:
   matrix:
-  - INSTANCE=default-ubuntu-16.04
+  - INSTANCE=ubuntu-16.04
 
   fast_finish: true
 
