@@ -1,0 +1,7 @@
+name 'cheftesting'
+maintainer 'Duy Mai'
+maintainer_email 'kenvin.md@gmail.com'
+license 'all_rights'
+description 'Installs/Configures cheftesting'
+long_description 'Installs/Configures cheftesting'
+version '0.1.0'
