@@ -6,5 +6,3 @@
 
 Chef::Log.info('**************** Hello there *******************')
 Chef::Log.info('**************** Hello there *******************')
-Chef::Log.info('**************** Hello there *******************')
-Chef::Log.info('**************** Hello there *******************')
