@@ -1,5 +1,6 @@
 sudo: required
 dist: trusty
+language: ruby
 
 # install the pre-release chef-dk.  Use chef-stable-precise to install the stable release
 addons:
